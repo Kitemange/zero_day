@@ -1,1 +1,1 @@
-Ubuntu VM
+0-hello_ubuntu
