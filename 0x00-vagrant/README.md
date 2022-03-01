@@ -1,1 +1,1 @@
-extra project
+Ubuntu VM
